@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssRecursion", "AssRecursion.csproj", "{64E32F4D-E6B2-4FA6-9781-34C5F07EFC78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64E32F4D-E6B2-4FA6-9781-34C5F07EFC78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64E32F4D-E6B2-4FA6-9781-34C5F07EFC78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64E32F4D-E6B2-4FA6-9781-34C5F07EFC78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64E32F4D-E6B2-4FA6-9781-34C5F07EFC78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {504313D9-0738-4A74-800E-D579325CDC33}
+	EndGlobalSection
+EndGlobal
